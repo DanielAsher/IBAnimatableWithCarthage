@@ -14,7 +14,6 @@
 		3630861520593B5C009CB6D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3630861320593B5C009CB6D2 /* LaunchScreen.storyboard */; };
 		3630862020593CF2009CB6D2 /* IBAnimatable.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3630861F20593CE9009CB6D2 /* IBAnimatable.framework */; };
 		3630862120593CF2009CB6D2 /* IBAnimatable.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3630861F20593CE9009CB6D2 /* IBAnimatable.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		3676E7E1205945D30003B9DF /* Before header file export.png in Resources */ = {isa = PBXBuildFile; fileRef = 3676E7E0205945D30003B9DF /* Before header file export.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +41,7 @@
 		3630861D20593B95009CB6D2 /* Cartfile */ = {isa = PBXFileReference; lastKnownFileType = text; name = Cartfile; path = ../Cartfile; sourceTree = "<group>"; };
 		3630861F20593CE9009CB6D2 /* IBAnimatable.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IBAnimatable.framework; path = ../Carthage/Build/iOS/IBAnimatable.framework; sourceTree = "<group>"; };
 		3676E7E0205945D30003B9DF /* Before header file export.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Before header file export.png"; sourceTree = "<group>"; };
+		3676E7E22059490F0003B9DF /* After header file export.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "After header file export.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +107,7 @@
 		3676E7CE205944B00003B9DF /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				3676E7E22059490F0003B9DF /* After header file export.png */,
 				3676E7E0205945D30003B9DF /* Before header file export.png */,
 			);
 			path = Images;
@@ -174,7 +175,6 @@
 			files = (
 				3630861520593B5C009CB6D2 /* LaunchScreen.storyboard in Resources */,
 				3630861220593B5C009CB6D2 /* Assets.xcassets in Resources */,
-				3676E7E1205945D30003B9DF /* Before header file export.png in Resources */,
 				3630861020593B5C009CB6D2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
