@@ -1,6 +1,6 @@
 # IBAnimatableWithCarthage
 
-Showcase Carthage support for Xcode Interface Builder Live Views with @IBDesignable using .swift files in public headers
+Showcase Carthage support for [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) Xcode Interface Builder Live Views with @IBDesignable using .swift files in public headers
 
 ## Before header fix
 ![Before header fix](/IBAnimatableWithCarthage/IBAnimatableWithCarthage/Images/Before%20header%20file%20export.png?raw=true "Before header fix")
